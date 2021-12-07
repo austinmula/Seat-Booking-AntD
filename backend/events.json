@@ -1,0 +1,375 @@
+[
+  {
+    "id": "650f09df-eb46-4f65-a6c5-47fc1647ced3",
+    "event_name": "Wedding Ceremony ",
+    "church_name": "Seventh Day Adventist Church",
+    "total_seats": 30,
+    "date": "2021-12-11T20:06:04.421Z",
+    "seats": [
+      {
+        "booked": true,
+        "id": 1
+      },
+      {
+        "booked": false,
+        "id": 2
+      },
+      {
+        "booked": false,
+        "id": 3
+      },
+      {
+        "booked": false,
+        "id": 4
+      },
+      {
+        "booked": false,
+        "id": 5
+      },
+      {
+        "booked": false,
+        "id": 6
+      },
+      {
+        "booked": false,
+        "id": 7
+      },
+      {
+        "booked": false,
+        "id": 8
+      },
+      {
+        "booked": false,
+        "id": 9
+      },
+      {
+        "booked": false,
+        "id": 10
+      },
+      {
+        "booked": false,
+        "id": 11
+      },
+      {
+        "booked": false,
+        "id": 12
+      },
+      {
+        "booked": false,
+        "id": 13
+      },
+      {
+        "booked": false,
+        "id": 14
+      },
+      {
+        "booked": false,
+        "id": 15
+      },
+      {
+        "booked": false,
+        "id": 16
+      },
+      {
+        "booked": false,
+        "id": 17
+      },
+      {
+        "booked": false,
+        "id": 18
+      },
+      {
+        "booked": false,
+        "id": 19
+      },
+      {
+        "booked": false,
+        "id": 20
+      },
+      {
+        "booked": true,
+        "id": 21
+      },
+      {
+        "booked": false,
+        "id": 22
+      },
+      {
+        "booked": false,
+        "id": 23
+      },
+      {
+        "booked": false,
+        "id": 24
+      },
+      {
+        "booked": false,
+        "id": 25
+      },
+      {
+        "booked": true,
+        "id": 26
+      },
+      {
+        "booked": true,
+        "id": 27
+      },
+      {
+        "booked": true,
+        "id": 28
+      },
+      {
+        "booked": true,
+        "id": 29
+      },
+      {
+        "booked": true,
+        "id": 30
+      }
+    ],
+    "people": [
+      {
+        "name": "Hariette",
+        "picks": [
+          30,
+          29
+        ]
+      },
+      {
+        "name": "Jane",
+        "picks": [
+          28,
+          27
+        ]
+      },
+      {
+        "name": "Trevor",
+        "picks": [
+          26
+        ]
+      },
+      {
+        "name": "Sly",
+        "picks": [
+          21
+        ]
+      },
+      {
+        "name": "Ezekiel",
+        "picks": [
+          1
+        ]
+      }
+    ]
+  },
+  {
+    "id": "a5ee1709-8830-422c-90da-16d877a976d5",
+    "event_name": "Clergy Meeting",
+    "church_name": "Catholic Church",
+    "total_seats": 20,
+    "date": "2021-12-13T20:06:04.421Z",
+    "seats": [
+      {
+        "booked": false,
+        "id": 1
+      },
+      {
+        "booked": false,
+        "id": 2
+      },
+      {
+        "booked": false,
+        "id": 3
+      },
+      {
+        "booked": false,
+        "id": 4
+      },
+      {
+        "booked": false,
+        "id": 5
+      },
+      {
+        "booked": false,
+        "id": 6
+      },
+      {
+        "booked": false,
+        "id": 7
+      },
+      {
+        "booked": false,
+        "id": 8
+      },
+      {
+        "booked": false,
+        "id": 9
+      },
+      {
+        "booked": false,
+        "id": 10
+      },
+      {
+        "booked": false,
+        "id": 11
+      },
+      {
+        "booked": false,
+        "id": 12
+      },
+      {
+        "booked": false,
+        "id": 13
+      },
+      {
+        "booked": false,
+        "id": 14
+      },
+      {
+        "booked": false,
+        "id": 15
+      },
+      {
+        "booked": true,
+        "id": 16
+      },
+      {
+        "booked": true,
+        "id": 17
+      },
+      {
+        "booked": true,
+        "id": 18
+      },
+      {
+        "booked": true,
+        "id": 19
+      },
+      {
+        "booked": true,
+        "id": 20
+      }
+    ],
+    "people": [
+      {
+        "name": "Steve",
+        "picks": [
+          20,
+          19,
+          18
+        ]
+      },
+      {
+        "name": "Kent",
+        "picks": [
+          16,
+          17
+        ]
+      }
+    ]
+  },
+  {
+    "id": "1fe9f0bf-cdc4-4aae-ad88-d22ef510046d",
+    "event_name": "Sunday School",
+    "church_name": "St Andrews Church",
+    "total_seats": 20,
+    "date": "2021-12-05T20:15:09.301Z",
+    "seats": [
+      {
+        "booked": true,
+        "id": 1
+      },
+      {
+        "booked": false,
+        "id": 2
+      },
+      {
+        "booked": true,
+        "id": 3
+      },
+      {
+        "booked": false,
+        "id": 4
+      },
+      {
+        "booked": false,
+        "id": 5
+      },
+      {
+        "booked": false,
+        "id": 6
+      },
+      {
+        "booked": false,
+        "id": 7
+      },
+      {
+        "booked": false,
+        "id": 8
+      },
+      {
+        "booked": false,
+        "id": 9
+      },
+      {
+        "booked": false,
+        "id": 10
+      },
+      {
+        "booked": false,
+        "id": 11
+      },
+      {
+        "booked": false,
+        "id": 12
+      },
+      {
+        "booked": false,
+        "id": 13
+      },
+      {
+        "booked": false,
+        "id": 14
+      },
+      {
+        "booked": false,
+        "id": 15
+      },
+      {
+        "booked": false,
+        "id": 16
+      },
+      {
+        "booked": false,
+        "id": 17
+      },
+      {
+        "booked": false,
+        "id": 18
+      },
+      {
+        "booked": false,
+        "id": 19
+      },
+      {
+        "booked": true,
+        "id": 20
+      }
+    ],
+    "people": [
+      {
+        "name": "Austin",
+        "picks": [
+          20
+        ]
+      },
+      {
+        "name": "Selena",
+        "picks": [
+          1,
+          3
+        ]
+      }
+    ]
+  }
+]
